@@ -1,0 +1,3152 @@
+{
+  "hotelID": "EA223488",
+  "availableRooms": [
+    {
+      "supplierName": "GTA",
+      "adults": 2,
+      "children": 0,
+      "infants": 0,
+      "availableRoomTypes": [
+        {
+          "name": "Deluxe Room",
+          "description": "Deluxe Room",
+          "price": 3407.5,
+          "b2CPrice": 3042.41,
+          "savingPercent": -12.000026294943812,
+          "boardCode": "001:ILTS:15975:M150460:233295:85213",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Early Bird Offer",
+              "specialOfferDescription": "Early Bird Offer",
+              "amount": 525.806022
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Twin Room (2 twin beds)",
+          "description": "Deluxe Twin Room (2 twin beds)",
+          "price": 3415.35,
+          "b2CPrice": 3049.42,
+          "savingPercent": -11.999986882751474,
+          "boardCode": "111207|200669779|E|25",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 124.7
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 100.1,
+              "originAmount": 100.1
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "King Hilton, Deluxe Room, 1 King Bed (1 king bed)",
+          "description": "King Hilton, Deluxe Room, 1 King Bed (1 king bed)",
+          "price": 3415.35,
+          "b2CPrice": 3049.42,
+          "savingPercent": -11.999986882751474,
+          "boardCode": "111210|200669787|E|14",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 264.18
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 100.1,
+              "originAmount": 100.1
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            },
+            {
+              "rate": 81.42,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - De Luxe",
+          "description": "Twin room - De Luxe",
+          "price": 3481.41,
+          "b2CPrice": 3108.4,
+          "savingPercent": -12.000064341783554,
+          "boardCode": "1272",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Room",
+          "description": "Deluxe Room",
+          "price": 3534.94,
+          "b2CPrice": 3156.19,
+          "savingPercent": -12.00022812314848,
+          "boardCode": "001:ILTK:15975:M150460:233288:85213",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Twin Room, Lake View (2 twin beds)",
+          "description": "Deluxe Twin Room, Lake View (2 twin beds)",
+          "price": 3625.51,
+          "b2CPrice": 3237.06,
+          "savingPercent": -12.000086498242233,
+          "boardCode": "200151422|200844667|E|25",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 131.29
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 106.33,
+              "originAmount": 106.33
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Room, 1 King Bed, Lake View (1 king bed)",
+          "description": "Deluxe Room, 1 King Bed, Lake View (1 king bed)",
+          "price": 3625.51,
+          "b2CPrice": 3237.06,
+          "savingPercent": -12.000086498242233,
+          "boardCode": "200151416|200844634|E|14",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 131.29
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 106.33,
+              "originAmount": 106.33
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            },
+            {
+              "rate": 86.42,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Room Lake View",
+          "description": "Deluxe Room Lake View",
+          "price": 3641.98,
+          "b2CPrice": 3251.76,
+          "savingPercent": -12.00027062267818,
+          "boardCode": "001:ILTT:15975:M150460:233295:143965",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Early Bird Offer",
+              "specialOfferDescription": "Early Bird Offer",
+              "amount": 126
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double room King bed - De Luxe - Lake View",
+          "description": "Double room King bed - De Luxe - Lake View",
+          "price": 3695.5,
+          "b2CPrice": 3299.55,
+          "savingPercent": -12.000121228652391,
+          "boardCode": "3647",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - De Luxe - Lake View",
+          "description": "Twin/Double room - De Luxe - Lake View",
+          "price": 3756.66,
+          "b2CPrice": 3354.16,
+          "savingPercent": -12.000023850979083,
+          "boardCode": "1931",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Room Lake View",
+          "description": "Deluxe Room Lake View",
+          "price": 3782.15,
+          "b2CPrice": 3376.92,
+          "savingPercent": -11.999988154886701,
+          "boardCode": "001:ILTL:15975:M150460:233288:143965",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - De Luxe",
+          "description": "Twin/Double room - De Luxe",
+          "price": 3879,
+          "b2CPrice": 3463.39,
+          "savingPercent": -12.000092395023373,
+          "boardCode": "24",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Twin Room (Plus) (2 twin beds)",
+          "description": "Deluxe Twin Room (Plus) (2 twin beds)",
+          "price": 3974.83,
+          "b2CPrice": 3548.95,
+          "savingPercent": -12.000169064089379,
+          "boardCode": "111209|200669784|E|25",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 144.86
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 116.55,
+              "originAmount": 116.55
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Room, 1 King Bed (Plus) (1 king bed)",
+          "description": "Deluxe Room, 1 King Bed (Plus) (1 king bed)",
+          "price": 3974.83,
+          "b2CPrice": 3548.95,
+          "savingPercent": -12.000169064089379,
+          "boardCode": "111208|200669780|E|14",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 144.86
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 116.55,
+              "originAmount": 116.55
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            },
+            {
+              "rate": 94.75,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Room Plus",
+          "description": "Deluxe Room Plus",
+          "price": 4034.47,
+          "b2CPrice": 3602.2,
+          "savingPercent": -12.00016656487702,
+          "boardCode": "001:ILTU:15975:M150460:233295:85253",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Early Bird Offer",
+              "specialOfferDescription": "Early Bird Offer",
+              "amount": 139.5
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - De Luxe - Lake View",
+          "description": "Twin/Double room - De Luxe - Lake View",
+          "price": 4108.38,
+          "b2CPrice": 3668.19,
+          "savingPercent": -12.000196282090076,
+          "boardCode": "1931",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - De Luxe - Plus",
+          "description": "Twin room - De Luxe - Plus",
+          "price": 4128.76,
+          "b2CPrice": 3686.39,
+          "savingPercent": -12.000086805791032,
+          "boardCode": "3665",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - De Luxe - Plus",
+          "description": "Twin/Double room - De Luxe - Plus",
+          "price": 4128.76,
+          "b2CPrice": 3686.39,
+          "savingPercent": -12.000086805791032,
+          "boardCode": "2835",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Room Plus",
+          "description": "Deluxe Room Plus",
+          "price": 4177.19,
+          "b2CPrice": 3729.63,
+          "savingPercent": -12.000117974169019,
+          "boardCode": "001:ILTM:15975:M150460:233288:85253",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - De Luxe",
+          "description": "Twin room - De Luxe",
+          "price": 4195.03,
+          "b2CPrice": 3745.56,
+          "savingPercent": -12.000074755176795,
+          "boardCode": "1272",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - De Luxe - Lake View",
+          "description": "Twin/Double room - De Luxe - Lake View",
+          "price": 4414.2,
+          "b2CPrice": 3941.25,
+          "savingPercent": -12,
+          "boardCode": "1931",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - De Luxe - Plus",
+          "description": "Twin room - De Luxe - Plus",
+          "price": 4511.05,
+          "b2CPrice": 4027.72,
+          "savingPercent": -12.000089380592494,
+          "boardCode": "3665",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - De Luxe - Plus",
+          "description": "Twin/Double room - De Luxe - Plus",
+          "price": 4511.05,
+          "b2CPrice": 4027.72,
+          "savingPercent": -12.000089380592494,
+          "boardCode": "2835",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - De Luxe",
+          "description": "Twin/Double room - De Luxe",
+          "price": 4516.15,
+          "b2CPrice": 4032.27,
+          "savingPercent": -12.000188479442102,
+          "boardCode": "24",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Twin Room (2 twin beds)",
+          "description": "Deluxe Twin Room (2 twin beds)",
+          "price": 4523.49,
+          "b2CPrice": 4038.83,
+          "savingPercent": -12.000009903858295,
+          "boardCode": "111207|1015184|E|25",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2104": "Full Breakfast"
+          },
+          "specialOffers": [
+            {
+              "amount": 52.52
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 132.63,
+              "originAmount": 132.63
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 107.83,
+              "promo": false
+            },
+            {
+              "rate": 107.83,
+              "promo": false
+            },
+            {
+              "rate": 107.83,
+              "promo": false
+            },
+            {
+              "rate": 107.83,
+              "promo": false
+            },
+            {
+              "rate": 107.83,
+              "promo": false
+            },
+            {
+              "rate": 107.83,
+              "promo": false
+            },
+            {
+              "rate": 107.83,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Room, 1 King Bed, Lake View (1 king bed)",
+          "description": "Deluxe Room, 1 King Bed, Lake View (1 king bed)",
+          "price": 4762.6,
+          "b2CPrice": 4252.32,
+          "savingPercent": -12.000037626519171,
+          "boardCode": "200151416|200844646|E|14",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2205": "Breakfast Buffet"
+          },
+          "specialOffers": [
+            {
+              "amount": 55.31
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 139.64,
+              "originAmount": 139.64
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Twin Room, Lake View (2 twin beds)",
+          "description": "Deluxe Twin Room, Lake View (2 twin beds)",
+          "price": 4762.6,
+          "b2CPrice": 4252.32,
+          "savingPercent": -12.000037626519171,
+          "boardCode": "200151422|200844661|E|25",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2205": "Breakfast Buffet"
+          },
+          "specialOffers": [
+            {
+              "amount": 55.31
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 139.64,
+              "originAmount": 139.64
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            },
+            {
+              "rate": 113.53,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - De Luxe - Plus",
+          "description": "Twin room - De Luxe - Plus",
+          "price": 4771.01,
+          "b2CPrice": 4259.83,
+          "savingPercent": -12.000009390046081,
+          "boardCode": "3665",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - De Luxe - Plus",
+          "description": "Twin/Double room - De Luxe - Plus",
+          "price": 4771.01,
+          "b2CPrice": 4259.83,
+          "savingPercent": -12.000009390046081,
+          "boardCode": "2835",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Triple Plus",
+          "description": "Deluxe Triple Plus",
+          "price": 4801.6,
+          "b2CPrice": 4287.14,
+          "savingPercent": -12.000074641835816,
+          "boardCode": "001:ILTU:15975:M150460:233295:85247",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Early Bird Offer",
+              "specialOfferDescription": "Early Bird Offer",
+              "amount": 167.5
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room, 2 Twin Beds, Business Lounge Access (2 twin beds)",
+          "description": "Executive Room, 2 Twin Beds, Business Lounge Access (2 twin beds)",
+          "price": 4812.96,
+          "b2CPrice": 4297.28,
+          "savingPercent": -12.000148931417083,
+          "boardCode": "111211|200669788|E|25",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {
+            "2192": "Free Wireless Internet"
+          },
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 175.38
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 141.12,
+              "originAmount": 141.12
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room, 1 King Bed, Business Lounge Access (1 king bed)",
+          "description": "Executive Room, 1 King Bed, Business Lounge Access (1 king bed)",
+          "price": 4812.96,
+          "b2CPrice": 4297.28,
+          "savingPercent": -12.000148931417083,
+          "boardCode": "111206|200669775|E|14",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {
+            "2192": "Free Wireless Internet"
+          },
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 175.38
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 141.12,
+              "originAmount": 141.12
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            },
+            {
+              "rate": 114.73,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - De Luxe",
+          "description": "Twin room - De Luxe",
+          "price": 4939.23,
+          "b2CPrice": 4410.02,
+          "savingPercent": -12.000172334819343,
+          "boardCode": "1272",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room",
+          "description": "Executive Room",
+          "price": 4959.61,
+          "b2CPrice": 4428.22,
+          "savingPercent": -12.000081296773873,
+          "boardCode": "001:ILTV:15975:M150460:233295:85245",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Early Bird Offer",
+              "specialOfferDescription": "Early Bird Offer",
+              "amount": 172
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Triple Plus",
+          "description": "Deluxe Triple Plus",
+          "price": 4980,
+          "b2CPrice": 4446.42,
+          "savingPercent": -12.000215904030659,
+          "boardCode": "001:ILTM:15975:M150460:233288:85247",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - Executive",
+          "description": "Twin/Double room - Executive",
+          "price": 4990.2,
+          "b2CPrice": 4455.53,
+          "savingPercent": -12.000143641721635,
+          "boardCode": "1036",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - Executive",
+          "description": "Twin room - Executive",
+          "price": 4990.2,
+          "b2CPrice": 4455.53,
+          "savingPercent": -12.000143641721635,
+          "boardCode": "1534",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room, 1 King Bed, Business Lounge Access, Lake View (1 king bed)",
+          "description": "Executive Room, 1 King Bed, Business Lounge Access, Lake View (1 king bed)",
+          "price": 5022.77,
+          "b2CPrice": 4484.61,
+          "savingPercent": -12.000151629684632,
+          "boardCode": "200263648|201550719|E|14",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 181.97
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 147.28,
+              "originAmount": 147.28
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room, 2 Twin Beds, Business Lounge Access, Lake View (2 twin beds)",
+          "description": "Executive Room, 2 Twin Beds, Business Lounge Access, Lake View (2 twin beds)",
+          "price": 5022.77,
+          "b2CPrice": 4484.61,
+          "savingPercent": -12.000151629684632,
+          "boardCode": "200263677|201551004|E|25",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 181.97
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 147.28,
+              "originAmount": 147.28
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            },
+            {
+              "rate": 119.73,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double room - De Luxe",
+          "description": "Double room - De Luxe",
+          "price": 5097.24,
+          "b2CPrice": 4551.1,
+          "savingPercent": -12.000175781679154,
+          "boardCode": "1176",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Twin Room (Plus) (2 twin beds)",
+          "description": "Deluxe Twin Room (Plus) (2 twin beds)",
+          "price": 5148.72,
+          "b2CPrice": 4597.07,
+          "savingPercent": -12.000034804777826,
+          "boardCode": "111209|1015181|E|25",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2104": "Full Breakfast"
+          },
+          "specialOffers": [
+            {
+              "amount": 59.74
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 150.92,
+              "originAmount": 150.92
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Room, 1 King Bed (Plus) (1 king bed)",
+          "description": "Deluxe Room, 1 King Bed (Plus) (1 king bed)",
+          "price": 5148.72,
+          "b2CPrice": 4597.07,
+          "savingPercent": -12.000034804777826,
+          "boardCode": "111208|1015177|E|14",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2104": "Full Breakfast"
+          },
+          "specialOffers": [
+            {
+              "amount": 59.74
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 150.92,
+              "originAmount": 150.92
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            },
+            {
+              "rate": 122.74,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room",
+          "description": "Executive Room",
+          "price": 5155.86,
+          "b2CPrice": 4603.44,
+          "savingPercent": -12.00015640477556,
+          "boardCode": "001:ILTN:15975:M150460:233288:85245",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - De Luxe - Lake View",
+          "description": "Twin/Double room - De Luxe - Lake View",
+          "price": 5194.08,
+          "b2CPrice": 4637.57,
+          "savingPercent": -12.000034500826942,
+          "boardCode": "1931",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room Lake View",
+          "description": "Executive Room Lake View",
+          "price": 5194.08,
+          "b2CPrice": 4637.57,
+          "savingPercent": -12.000034500826942,
+          "boardCode": "001:ILTW:15975:M150460:233295:143966",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Early Bird Offer",
+              "specialOfferDescription": "Early Bird Offer",
+              "amount": 181.5
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - Executive - Lake View",
+          "description": "Twin room - Executive - Lake View",
+          "price": 5209.37,
+          "b2CPrice": 4651.22,
+          "savingPercent": -12.000077399047992,
+          "boardCode": "4221",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double room King bed - Lake View",
+          "description": "Double room King bed - Lake View",
+          "price": 5209.37,
+          "b2CPrice": 4651.22,
+          "savingPercent": -12.000077399047992,
+          "boardCode": "3595",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "King Hilton, Deluxe Room, 1 King Bed (1 king bed)",
+          "description": "King Hilton, Deluxe Room, 1 King Bed (1 king bed)",
+          "price": 5323.45,
+          "b2CPrice": 4753.08,
+          "savingPercent": -12.000008415595783,
+          "boardCode": "111210|1034225|E|14",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {
+            "2104": "Full Breakfast"
+          },
+          "specialOffers": [
+            {
+              "amount": 61.76
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 156.08,
+              "originAmount": 156.08
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 126.9,
+              "promo": false
+            },
+            {
+              "rate": 126.9,
+              "promo": false
+            },
+            {
+              "rate": 126.9,
+              "promo": false
+            },
+            {
+              "rate": 126.9,
+              "promo": false
+            },
+            {
+              "rate": 126.9,
+              "promo": false
+            },
+            {
+              "rate": 126.9,
+              "promo": false
+            },
+            {
+              "rate": 126.9,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room, 2 Twin Beds, Business Lounge Access (Plus) (2 twin beds)",
+          "description": "Executive Room, 2 Twin Beds, Business Lounge Access (Plus) (2 twin beds)",
+          "price": 5372.07,
+          "b2CPrice": 4796.49,
+          "savingPercent": -12.000025018294627,
+          "boardCode": "334212|200669793|E|25",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {
+            "2192": "Free Wireless Internet"
+          },
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 195.51
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 157.57,
+              "originAmount": 157.57
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 128.05,
+              "promo": true
+            },
+            {
+              "rate": 128.05,
+              "promo": true
+            },
+            {
+              "rate": 128.05,
+              "promo": true
+            },
+            {
+              "rate": 128.05,
+              "promo": true
+            },
+            {
+              "rate": 128.05,
+              "promo": true
+            },
+            {
+              "rate": 128.05,
+              "promo": true
+            },
+            {
+              "rate": 128.05,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room Lake View",
+          "description": "Executive Room Lake View",
+          "price": 5390.33,
+          "b2CPrice": 4812.79,
+          "savingPercent": -12.000108045437262,
+          "boardCode": "001:ILTO:15975:M150460:233288:143966",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double room - De Luxe - Lake View",
+          "description": "Double room - De Luxe - Lake View",
+          "price": 5392.87,
+          "b2CPrice": 4815.06,
+          "savingPercent": -12.000058150884932,
+          "boardCode": "2038",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - De Luxe - Lake View",
+          "description": "Twin room - De Luxe - Lake View",
+          "price": 5392.87,
+          "b2CPrice": 4815.06,
+          "savingPercent": -12.000058150884932,
+          "boardCode": "4013",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - Executive",
+          "description": "Twin room - Executive",
+          "price": 5459.14,
+          "b2CPrice": 4874.23,
+          "savingPercent": -12.000049238546396,
+          "boardCode": "1534",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - Executive",
+          "description": "Twin/Double room - Executive",
+          "price": 5459.14,
+          "b2CPrice": 4874.23,
+          "savingPercent": -12.000049238546396,
+          "boardCode": "1036",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - De Luxe - Plus",
+          "description": "Twin room - De Luxe - Plus",
+          "price": 5494.81,
+          "b2CPrice": 4906.08,
+          "savingPercent": -12.000008153148746,
+          "boardCode": "3665",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double room",
+          "description": "Double room",
+          "price": 5499.92,
+          "b2CPrice": 4910.64,
+          "savingPercent": -12.000065164622127,
+          "boardCode": "1020",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room",
+          "description": "Twin room",
+          "price": 5499.92,
+          "b2CPrice": 4910.64,
+          "savingPercent": -12.000065164622127,
+          "boardCode": "1012",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Lake View",
+          "description": "Deluxe Lake View",
+          "price": 5550.86,
+          "b2CPrice": 4956.12,
+          "savingPercent": -12.000112991614408,
+          "boardCode": "3702765",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "DOT17844",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - Plus - Executive",
+          "description": "Twin/Double room - Plus - Executive",
+          "price": 5566.18,
+          "b2CPrice": 4969.8,
+          "savingPercent": -12.000080486136262,
+          "boardCode": "2284",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room Plus",
+          "description": "Executive Room Plus",
+          "price": 5586.56,
+          "b2CPrice": 4988,
+          "savingPercent": -12,
+          "boardCode": "001:ILTX:15975:M150460:233295:85288",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Early Bird Offer",
+              "specialOfferDescription": "Early Bird Offer",
+              "amount": 192.5
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - De Luxe - Plus",
+          "description": "Twin/Double room - De Luxe - Plus",
+          "price": 5617.15,
+          "b2CPrice": 5015.31,
+          "savingPercent": -12.000055829051444,
+          "boardCode": "2835",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - Executive",
+          "description": "Twin room - Executive",
+          "price": 5647.74,
+          "b2CPrice": 5042.62,
+          "savingPercent": -12.00011105338098,
+          "boardCode": "1534",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - Executive",
+          "description": "Twin/Double room - Executive",
+          "price": 5647.74,
+          "b2CPrice": 5042.62,
+          "savingPercent": -12.00011105338098,
+          "boardCode": "1036",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double room King bed - Lake View",
+          "description": "Double room King bed - Lake View",
+          "price": 5693.61,
+          "b2CPrice": 5083.58,
+          "savingPercent": -12.000007868470645,
+          "boardCode": "3595",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - Executive - Lake View",
+          "description": "Twin room - Executive - Lake View",
+          "price": 5693.61,
+          "b2CPrice": 5083.58,
+          "savingPercent": -12.000007868470645,
+          "boardCode": "4221",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room Plus",
+          "description": "Executive Room Plus",
+          "price": 5798.1,
+          "b2CPrice": 5176.87,
+          "savingPercent": -12.000108173471615,
+          "boardCode": "001:ILTP:15975:M150460:233288:85288",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double room King bed - Lake View",
+          "description": "Double room King bed - Lake View",
+          "price": 5861.82,
+          "b2CPrice": 5233.76,
+          "savingPercent": -12.000168139158081,
+          "boardCode": "3595",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - Executive - Lake View",
+          "description": "Twin room - Executive - Lake View",
+          "price": 5861.82,
+          "b2CPrice": 5233.76,
+          "savingPercent": -12.000168139158081,
+          "boardCode": "4221",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room, 1 King Bed, Business Lounge Access (1 king bed)",
+          "description": "Executive Room, 1 King Bed, Business Lounge Access (1 king bed)",
+          "price": 6086.66,
+          "b2CPrice": 5434.51,
+          "savingPercent": -12.000161928122315,
+          "boardCode": "111206|1015183|E|14",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2104": "Full Breakfast",
+            "2192": "Free Wireless Internet"
+          },
+          "specialOffers": [
+            {
+              "amount": 70.65
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 178.48,
+              "originAmount": 178.48
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room, 2 Twin Beds, Business Lounge Access (2 twin beds)",
+          "description": "Executive Room, 2 Twin Beds, Business Lounge Access (2 twin beds)",
+          "price": 6086.66,
+          "b2CPrice": 5434.51,
+          "savingPercent": -12.000161928122315,
+          "boardCode": "111211|1015189|E|25",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2104": "Full Breakfast",
+            "2192": "Free Wireless Internet"
+          },
+          "specialOffers": [
+            {
+              "amount": 70.65
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 178.48,
+              "originAmount": 178.48
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            },
+            {
+              "rate": 145.09,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - Plus - Executive",
+          "description": "Twin/Double room - Plus - Executive",
+          "price": 6096.29,
+          "b2CPrice": 5443.11,
+          "savingPercent": -12.000124928579433,
+          "boardCode": "2284",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Grand) (1 king bed)",
+          "description": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Grand) (1 king bed)",
+          "price": 6210.57,
+          "b2CPrice": 5545.15,
+          "savingPercent": -12.000036067554529,
+          "boardCode": "200263543|201549995|E|14",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Seasonal deal",
+              "specialOfferDescription": "Seasonal deal",
+              "amount": 225.93
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 182.07,
+              "originAmount": 182.07
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 148.05,
+              "promo": true
+            },
+            {
+              "rate": 148.05,
+              "promo": true
+            },
+            {
+              "rate": 148.05,
+              "promo": true
+            },
+            {
+              "rate": 148.05,
+              "promo": true
+            },
+            {
+              "rate": 148.05,
+              "promo": true
+            },
+            {
+              "rate": 148.05,
+              "promo": true
+            },
+            {
+              "rate": 148.05,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - Plus - Executive",
+          "description": "Twin/Double room - Plus - Executive",
+          "price": 6223.72,
+          "b2CPrice": 5556.89,
+          "savingPercent": -12.000057586167802,
+          "boardCode": "2284",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Deluxe Plus Room",
+          "description": "Deluxe Plus Room",
+          "price": 6304.1,
+          "b2CPrice": 5628.66,
+          "savingPercent": -12.000014212974314,
+          "boardCode": "31704",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "DOT17844",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room, 1 King Bed, Business Lounge Access, Lake View (1 king bed)",
+          "description": "Executive Room, 1 King Bed, Business Lounge Access, Lake View (1 king bed)",
+          "price": 6325.76,
+          "b2CPrice": 5648,
+          "savingPercent": -12,
+          "boardCode": "200263648|201550763|E|14",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2205": "Breakfast Buffet"
+          },
+          "specialOffers": [
+            {
+              "amount": 73.41
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 185.49,
+              "originAmount": 185.49
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room, 2 Twin Beds, Business Lounge Access, Lake View (2 twin beds)",
+          "description": "Executive Room, 2 Twin Beds, Business Lounge Access, Lake View (2 twin beds)",
+          "price": 6325.76,
+          "b2CPrice": 5648,
+          "savingPercent": -12,
+          "boardCode": "200263677|201551054|E|25",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2205": "Breakfast Buffet"
+          },
+          "specialOffers": [
+            {
+              "amount": 73.41
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 185.49,
+              "originAmount": 185.49
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            },
+            {
+              "rate": 150.79,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Triple Plus",
+          "description": "Executive Triple Plus",
+          "price": 6353.7,
+          "b2CPrice": 5672.94,
+          "savingPercent": -12.000126918317486,
+          "boardCode": "001:ILTX:15975:M150460:233295:85258",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Early Bird Offer",
+              "specialOfferDescription": "Early Bird Offer",
+              "amount": 220.5
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - Executive",
+          "description": "Twin/Double room - Executive",
+          "price": 6371.54,
+          "b2CPrice": 5688.87,
+          "savingPercent": -12.000098437826844,
+          "boardCode": "1036",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Suite - Executive - Grand",
+          "description": "Suite - Executive - Grand",
+          "price": 6442.9,
+          "b2CPrice": 5752.59,
+          "savingPercent": -11.999986093220619,
+          "boardCode": "2823",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Suite",
+          "description": "Executive Suite",
+          "price": 6514.26,
+          "b2CPrice": 5816.3,
+          "savingPercent": -12.000068772243523,
+          "boardCode": "001:ILTY:15975:M150460:233295:85233",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Early Bird Offer",
+              "specialOfferDescription": "Early Bird Offer",
+              "amount": 227.5
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Triple Plus",
+          "description": "Executive Triple Plus",
+          "price": 6603.47,
+          "b2CPrice": 5895.95,
+          "savingPercent": -12.000101764770733,
+          "boardCode": "001:ILTP:15975:M150460:233288:85258",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - Executive",
+          "description": "Twin room - Executive",
+          "price": 6646.79,
+          "b2CPrice": 5934.63,
+          "savingPercent": -12.000074141100624,
+          "boardCode": "1534",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Room, 2 Twin Beds, Business Lounge Access (Plus) (2 twin beds)",
+          "description": "Executive Room, 2 Twin Beds, Business Lounge Access (Plus) (2 twin beds)",
+          "price": 6711.58,
+          "b2CPrice": 5992.48,
+          "savingPercent": -12.000040050196246,
+          "boardCode": "334212|1034151|E|25",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2104": "Full Breakfast",
+            "2192": "Free Wireless Internet"
+          },
+          "specialOffers": [
+            {
+              "amount": 77.91
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 196.78,
+              "originAmount": 196.78
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 159.99,
+              "promo": false
+            },
+            {
+              "rate": 159.99,
+              "promo": false
+            },
+            {
+              "rate": 159.99,
+              "promo": false
+            },
+            {
+              "rate": 159.99,
+              "promo": false
+            },
+            {
+              "rate": 159.99,
+              "promo": false
+            },
+            {
+              "rate": 159.99,
+              "promo": false
+            },
+            {
+              "rate": 159.99,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double Deluxe-Lake View",
+          "description": "Double Deluxe-Lake View",
+          "price": 6731.42,
+          "b2CPrice": 6010.19,
+          "savingPercent": -12.000119796545533,
+          "boardCode": "3636275",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "DOT17844",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Suite",
+          "description": "Executive Suite",
+          "price": 6764.03,
+          "b2CPrice": 6039.31,
+          "savingPercent": -12.00004636291232,
+          "boardCode": "001:ILTQ:15975:M150460:233288:85233",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double room - Executive",
+          "description": "Double room - Executive",
+          "price": 6896.56,
+          "b2CPrice": 6157.64,
+          "savingPercent": -12.00005196796175,
+          "boardCode": "1371",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin room - Executive - Lake View",
+          "description": "Twin room - Executive - Lake View",
+          "price": 6896.56,
+          "b2CPrice": 6157.64,
+          "savingPercent": -12.00005196796175,
+          "boardCode": "4221",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double room King bed - Lake View",
+          "description": "Double room King bed - Lake View",
+          "price": 6896.56,
+          "b2CPrice": 6157.64,
+          "savingPercent": -12.00005196796175,
+          "boardCode": "3595",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Suite - Executive - Grand",
+          "description": "Suite - Executive - Grand",
+          "price": 7039.28,
+          "b2CPrice": 6285.07,
+          "savingPercent": -12.000025457154813,
+          "boardCode": "2823",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Suite - Executive - Grand",
+          "description": "Suite - Executive - Grand",
+          "price": 7085.16,
+          "b2CPrice": 6326.03,
+          "savingPercent": -12.000101169295752,
+          "boardCode": "2823",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Standard Twin Room",
+          "description": "Standard Twin Room",
+          "price": 7129.04,
+          "b2CPrice": 6365.21,
+          "savingPercent": -12.000075409923632,
+          "boardCode": "22843885",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "DOT17844",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Standard Double Room",
+          "description": "Standard Double Room",
+          "price": 7129.04,
+          "b2CPrice": 6365.21,
+          "savingPercent": -12.000075409923632,
+          "boardCode": "22843895",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "DOT17844",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Triple Suite",
+          "description": "Executive Triple Suite",
+          "price": 7296.69,
+          "b2CPrice": 6514.9,
+          "savingPercent": -12.000030698859538,
+          "boardCode": "001:ILTY:15975:M150460:233295:85220",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Early Bird Offer",
+              "specialOfferDescription": "Early Bird Offer",
+              "amount": 252.5
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - Plus - Executive",
+          "description": "Twin/Double room - Plus - Executive",
+          "price": 7319.63,
+          "b2CPrice": 6535.38,
+          "savingPercent": -12.000067325847922,
+          "boardCode": "2284",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Twin/Double room - Executive - Lake View",
+          "description": "Twin/Double room - Executive - Lake View",
+          "price": 7324.73,
+          "b2CPrice": 6539.93,
+          "savingPercent": -12.000128441741731,
+          "boardCode": "4500",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Triple Suite",
+          "description": "Executive Triple Suite",
+          "price": 7566.84,
+          "b2CPrice": 6756.1,
+          "savingPercent": -12.000118411509598,
+          "boardCode": "001:ILTQ:15975:M150460:233288:85220",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Grand) (1 king bed)",
+          "description": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Grand) (1 king bed)",
+          "price": 7649.47,
+          "b2CPrice": 6829.88,
+          "savingPercent": -12.000064422800985,
+          "boardCode": "200263543|201550052|E|14",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2205": "Breakfast Buffet"
+          },
+          "specialOffers": [
+            {
+              "amount": 88.82
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 224.26,
+              "originAmount": 224.26
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 182.35,
+              "promo": false
+            },
+            {
+              "rate": 182.35,
+              "promo": false
+            },
+            {
+              "rate": 182.35,
+              "promo": false
+            },
+            {
+              "rate": 182.35,
+              "promo": false
+            },
+            {
+              "rate": 182.35,
+              "promo": false
+            },
+            {
+              "rate": 182.35,
+              "promo": false
+            },
+            {
+              "rate": 182.35,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Triple room - De Luxe - Plus",
+          "description": "Triple room - De Luxe - Plus",
+          "price": 7880.32,
+          "b2CPrice": 7036,
+          "savingPercent": -12,
+          "boardCode": "4828",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Suite - Executive",
+          "description": "Suite - Executive",
+          "price": 7972.07,
+          "b2CPrice": 7117.92,
+          "savingPercent": -11.999994380380786,
+          "boardCode": "1061",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Suite - Executive - Grand",
+          "description": "Suite - Executive - Grand",
+          "price": 8344.17,
+          "b2CPrice": 7450.15,
+          "savingPercent": -12.000026845097079,
+          "boardCode": "2823",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double Executive",
+          "description": "Double Executive",
+          "price": 8489.48,
+          "b2CPrice": 7579.89,
+          "savingPercent": -12.000042216971487,
+          "boardCode": "3636295",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "DOT17844",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Double Executive-Lake View",
+          "description": "Double Executive-Lake View",
+          "price": 8808.06,
+          "b2CPrice": 7864.34,
+          "savingPercent": -11.999989827499828,
+          "boardCode": "3636285",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "DOT17844",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Standard Triple Room",
+          "description": "Standard Triple Room",
+          "price": 9019.44,
+          "b2CPrice": 8053.07,
+          "savingPercent": -12.000019868199333,
+          "boardCode": "22843925",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "DOT17844",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Suite Executive",
+          "description": "Suite Executive",
+          "price": 9149.36,
+          "b2CPrice": 8169.07,
+          "savingPercent": -12.000019586072833,
+          "boardCode": "2170975",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "DOT17844",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Plus Room",
+          "description": "Executive Plus Room",
+          "price": 9344.93,
+          "b2CPrice": 8343.68,
+          "savingPercent": -12.000100675001917,
+          "boardCode": "31734",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "DOT17844",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Suite",
+          "description": "Suite",
+          "price": 13675.87,
+          "b2CPrice": 12210.59,
+          "savingPercent": -12.000075344434626,
+          "boardCode": "80",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Lifestyle) (1 king bed)",
+          "description": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Lifestyle) (1 king bed)",
+          "price": 13971.81,
+          "b2CPrice": 12474.83,
+          "savingPercent": -12.00000320645652,
+          "boardCode": "200263621|201550485|E|14",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Sale!",
+              "specialOfferDescription": "Sale!",
+              "amount": 327.14
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 409.71,
+              "originAmount": 409.71
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 333.05,
+              "promo": true
+            },
+            {
+              "rate": 333.05,
+              "promo": true
+            },
+            {
+              "rate": 333.05,
+              "promo": true
+            },
+            {
+              "rate": 333.05,
+              "promo": true
+            },
+            {
+              "rate": 333.05,
+              "promo": true
+            },
+            {
+              "rate": 333.05,
+              "promo": true
+            },
+            {
+              "rate": 333.05,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Suite",
+          "description": "Suite",
+          "price": 14323.21,
+          "b2CPrice": 12788.58,
+          "savingPercent": -12.000003127790576,
+          "boardCode": "80",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Suite",
+          "description": "Suite",
+          "price": 14955.27,
+          "b2CPrice": 13352.92,
+          "savingPercent": -11.999997004400536,
+          "boardCode": "80",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Lifestyle) (1 king bed)",
+          "description": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Lifestyle) (1 king bed)",
+          "price": 15465.14,
+          "b2CPrice": 13808.16,
+          "savingPercent": -12.000005793675623,
+          "boardCode": "200263621|201550521|E|14",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2205": "Breakfast Buffet"
+          },
+          "specialOffers": [
+            {
+              "amount": 179.46
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 453.48,
+              "originAmount": 453.48
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 368.65,
+              "promo": false
+            },
+            {
+              "rate": 368.65,
+              "promo": false
+            },
+            {
+              "rate": 368.65,
+              "promo": false
+            },
+            {
+              "rate": 368.65,
+              "promo": false
+            },
+            {
+              "rate": 368.65,
+              "promo": false
+            },
+            {
+              "rate": 368.65,
+              "promo": false
+            },
+            {
+              "rate": 368.65,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Suite",
+          "description": "Suite",
+          "price": 16861.63,
+          "b2CPrice": 15055.02,
+          "savingPercent": -12.000050481500523,
+          "boardCode": "80",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Lifestyle Suite",
+          "description": "Lifestyle Suite",
+          "price": 17580.34,
+          "b2CPrice": 15696.73,
+          "savingPercent": -12.000015289808768,
+          "boardCode": "001:HILI:15975:S15712:20483:299919",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Lifestyle Triple",
+          "description": "Lifestyle Triple",
+          "price": 19428.08,
+          "b2CPrice": 17346.5,
+          "savingPercent": -12,
+          "boardCode": "001:HILJ:15975:S15712:20483:299920",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "GTAHIL3",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Presidential Suite",
+          "description": "Presidential Suite",
+          "price": 36837.66,
+          "b2CPrice": 32890.76,
+          "savingPercent": -12.0000267552346,
+          "boardCode": "1763",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Presidential Suite",
+          "description": "Presidential Suite",
+          "price": 37490.1,
+          "b2CPrice": 33473.3,
+          "savingPercent": -12.000011949822694,
+          "boardCode": "1763",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Presidential Suite, Business Lounge Access (1 king bed)",
+          "description": "Presidential Suite, Business Lounge Access (1 king bed)",
+          "price": 37641.23,
+          "b2CPrice": 33608.24,
+          "savingPercent": -12.000003570552936,
+          "boardCode": "201119405|205281387|E|14",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Sale!",
+              "specialOfferDescription": "Sale!",
+              "amount": 880.12
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 1103.69,
+              "originAmount": 1103.69
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 897.28,
+              "promo": true
+            },
+            {
+              "rate": 897.28,
+              "promo": true
+            },
+            {
+              "rate": 897.28,
+              "promo": true
+            },
+            {
+              "rate": 897.28,
+              "promo": true
+            },
+            {
+              "rate": 897.28,
+              "promo": true
+            },
+            {
+              "rate": 897.28,
+              "promo": true
+            },
+            {
+              "rate": 897.28,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Presidential Suite",
+          "description": "Presidential Suite",
+          "price": 40278.28,
+          "b2CPrice": 35962.75,
+          "savingPercent": -12,
+          "boardCode": "1763",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Presidential Suite, Business Lounge Access (1 king bed)",
+          "description": "Presidential Suite, Business Lounge Access (1 king bed)",
+          "price": 40472.85,
+          "b2CPrice": 36136.47,
+          "savingPercent": -12.000009962234827,
+          "boardCode": "201119405|205281366|E|14",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2205": "Breakfast Buffet"
+          },
+          "specialOffers": [
+            {
+              "amount": 469.81
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 1186.71,
+              "originAmount": 1186.71
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 964.78,
+              "promo": false
+            },
+            {
+              "rate": 964.78,
+              "promo": false
+            },
+            {
+              "rate": 964.78,
+              "promo": false
+            },
+            {
+              "rate": 964.78,
+              "promo": false
+            },
+            {
+              "rate": 964.78,
+              "promo": false
+            },
+            {
+              "rate": 964.78,
+              "promo": false
+            },
+            {
+              "rate": 964.78,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Presidential Suite",
+          "description": "Presidential Suite",
+          "price": 44111.4,
+          "b2CPrice": 39385.17,
+          "savingPercent": -12.000024374656755,
+          "boardCode": "1763",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Penthouse",
+          "description": "Penthouse",
+          "price": 46965.85,
+          "b2CPrice": 41933.79,
+          "savingPercent": -12.000012400500886,
+          "boardCode": "1017",
+          "boardCodeDescription": "Room only (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Penthouse",
+          "description": "Penthouse",
+          "price": 47618.29,
+          "b2CPrice": 42516.33,
+          "savingPercent": -12.000000940814976,
+          "boardCode": "1017",
+          "boardCodeDescription": "Breakfast (Super Deal)",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Penthouse, Business Lounge Access (1 king bed)",
+          "description": "Penthouse, Business Lounge Access (1 king bed)",
+          "price": 47996.45,
+          "b2CPrice": 42853.97,
+          "savingPercent": -12.000008400621926,
+          "boardCode": "201119409|205281414|E|14",
+          "boardCodeDescription": "Room Only",
+          "hotelId": "EA223488",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [
+            {
+              "specialOfferName": "Sale!",
+              "specialOfferDescription": "Sale!",
+              "amount": 1122.1
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 1407.35,
+              "originAmount": 1407.35
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 1144.12,
+              "promo": true
+            },
+            {
+              "rate": 1144.12,
+              "promo": true
+            },
+            {
+              "rate": 1144.12,
+              "promo": true
+            },
+            {
+              "rate": 1144.12,
+              "promo": true
+            },
+            {
+              "rate": 1144.12,
+              "promo": true
+            },
+            {
+              "rate": 1144.12,
+              "promo": true
+            },
+            {
+              "rate": 1144.12,
+              "promo": true
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Penthouse",
+          "description": "Penthouse",
+          "price": 51359.65,
+          "b2CPrice": 45856.83,
+          "savingPercent": -12.000000872280093,
+          "boardCode": "1017",
+          "boardCodeDescription": "Room only",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Penthouse, Business Lounge Access (1 king bed)",
+          "description": "Penthouse, Business Lounge Access (1 king bed)",
+          "price": 51414.66,
+          "b2CPrice": 45905.94,
+          "savingPercent": -12.000015684244785,
+          "boardCode": "201119409|205281403|E|14",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "EA223488",
+          "isNonRefundable": true,
+          "facilities": {
+            "2205": "Breakfast Buffet"
+          },
+          "specialOffers": [
+            {
+              "amount": 596.75
+            }
+          ],
+          "surcharges": [
+            {
+              "charge": "TaxAndServiceFee",
+              "name": "TaxAndServiceFee",
+              "amount": 1507.59,
+              "originAmount": 1507.59
+            }
+          ],
+          "nightlyRates": [
+            {
+              "rate": 1225.6,
+              "promo": false
+            },
+            {
+              "rate": 1225.6,
+              "promo": false
+            },
+            {
+              "rate": 1225.6,
+              "promo": false
+            },
+            {
+              "rate": 1225.6,
+              "promo": false
+            },
+            {
+              "rate": 1225.6,
+              "promo": false
+            },
+            {
+              "rate": 1225.6,
+              "promo": false
+            },
+            {
+              "rate": 1225.6,
+              "promo": false
+            }
+          ],
+          "hasBreakfast": false
+        },
+        {
+          "name": "Penthouse",
+          "description": "Penthouse",
+          "price": 56028.71,
+          "b2CPrice": 50025.63,
+          "savingPercent": -12.00000879549143,
+          "boardCode": "1017",
+          "boardCodeDescription": "Breakfast",
+          "hotelId": "FR27966",
+          "isNonRefundable": false,
+          "facilities": {},
+          "specialOffers": [],
+          "hasBreakfast": false
+        }
+      ]
+    }
+  ]
+}

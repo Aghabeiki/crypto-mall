@@ -1,0 +1,26 @@
+{
+  "name": "hotelname",
+  "version": "0.1.0",
+  "description": "a hotel room name  clasifier ",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "aws-sdk": "^2.128.0",
+    "body-parser": "^1.17.2",
+    "connect-timeout": "^1.9.0",
+    "dynamodb": "^1.0.0",
+    "express": "^4.15.3",
+    "genetical": "^0.3.6",
+    "limdu": "^0.9.3",
+    "lodash": "^4.17.4",
+    "v8-profiler": "^5.7.0",
+    "wordpos": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "A.Aghabeiki",
+  "license": "ISC"
+}

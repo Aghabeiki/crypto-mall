@@ -1,0 +1,2648 @@
+{
+  "failed": [],
+  "rawRooms": [
+    {
+      "id": 0,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two"
+        ],
+        "verbs": [
+          "twin",
+          "room"
+        ],
+        "adjectives": [
+          "deluxe",
+          "twin",
+          "two"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds"
+        ]
+      },
+      "roomName": "deluxe twin room two beds",
+      "roomDetails": {
+        "name": "Deluxe Twin Room (2 twin beds)",
+        "description": "Deluxe Twin Room (2 twin beds)",
+        "price": 3415.35,
+        "b2CPrice": 3049.42,
+        "savingPercent": -11.999986882751474,
+        "boardCode": "111207|200669779|E|25",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 124.7
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 100.1,
+            "originAmount": 100.1
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "deluxe twin room two beds",
+        "roomID": 0
+      }
+    },
+    {
+      "id": 4,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two"
+        ],
+        "verbs": [
+          "twin",
+          "room"
+        ],
+        "adjectives": [
+          "deluxe",
+          "twin",
+          "two"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds"
+        ]
+      },
+      "roomName": "deluxe twin room  two beds",
+      "roomDetails": {
+        "name": "Deluxe Twin Room (Plus) (2 twin beds)",
+        "description": "Deluxe Twin Room (Plus) (2 twin beds)",
+        "price": 3974.83,
+        "b2CPrice": 3548.95,
+        "savingPercent": -12.000169064089379,
+        "boardCode": "111209|200669784|E|25",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 144.86
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 116.55,
+            "originAmount": 116.55
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "deluxe twin room  two beds",
+        "roomID": 4
+      }
+    },
+    {
+      "id": 6,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two"
+        ],
+        "verbs": [
+          "twin",
+          "room"
+        ],
+        "adjectives": [
+          "deluxe",
+          "twin",
+          "two"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds"
+        ]
+      },
+      "roomName": "deluxe twin room two beds",
+      "roomDetails": {
+        "name": "Deluxe Twin Room (2 twin beds)",
+        "description": "Deluxe Twin Room (2 twin beds)",
+        "price": 4523.49,
+        "b2CPrice": 4038.83,
+        "savingPercent": -12.000009903858295,
+        "boardCode": "111207|1015184|E|25",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2104": "Full Breakfast"
+        },
+        "specialOffers": [
+          {
+            "amount": 52.52
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 132.63,
+            "originAmount": 132.63
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 107.83,
+            "promo": false
+          },
+          {
+            "rate": 107.83,
+            "promo": false
+          },
+          {
+            "rate": 107.83,
+            "promo": false
+          },
+          {
+            "rate": 107.83,
+            "promo": false
+          },
+          {
+            "rate": 107.83,
+            "promo": false
+          },
+          {
+            "rate": 107.83,
+            "promo": false
+          },
+          {
+            "rate": 107.83,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "deluxe twin room two beds",
+        "roomID": 6
+      }
+    },
+    {
+      "id": 13,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two"
+        ],
+        "verbs": [
+          "twin",
+          "room"
+        ],
+        "adjectives": [
+          "deluxe",
+          "twin",
+          "two"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds"
+        ]
+      },
+      "roomName": "deluxe twin room  two beds",
+      "roomDetails": {
+        "name": "Deluxe Twin Room (Plus) (2 twin beds)",
+        "description": "Deluxe Twin Room (Plus) (2 twin beds)",
+        "price": 5148.72,
+        "b2CPrice": 4597.07,
+        "savingPercent": -12.000034804777826,
+        "boardCode": "111209|1015181|E|25",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2104": "Full Breakfast"
+        },
+        "specialOffers": [
+          {
+            "amount": 59.74
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 150.92,
+            "originAmount": 150.92
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "deluxe twin room  two beds",
+        "roomID": 13
+      }
+    },
+    {
+      "id": 1,
+      "roomPOS": {
+        "nouns": [
+          "room",
+          "bed",
+          "king",
+          "one"
+        ],
+        "verbs": [
+          "room",
+          "bed"
+        ],
+        "adjectives": [
+          "deluxe",
+          "one"
+        ],
+        "adverbs": [],
+        "rest": [
+          "hilton"
+        ]
+      },
+      "roomName": "king hilton deluxe room one bed",
+      "roomDetails": {
+        "name": "King Hilton, Deluxe Room, 1 King Bed (1 king bed)",
+        "description": "King Hilton, Deluxe Room, 1 King Bed (1 king bed)",
+        "price": 3415.35,
+        "b2CPrice": 3049.42,
+        "savingPercent": -11.999986882751474,
+        "boardCode": "111210|200669787|E|14",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 264.18
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 100.1,
+            "originAmount": 100.1
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          },
+          {
+            "rate": 81.42,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "king hilton deluxe room one bed",
+        "roomID": 1
+      }
+    },
+    {
+      "id": 5,
+      "roomPOS": {
+        "nouns": [
+          "room",
+          "bed",
+          "king",
+          "one"
+        ],
+        "verbs": [
+          "room",
+          "bed"
+        ],
+        "adjectives": [
+          "deluxe",
+          "one"
+        ],
+        "adverbs": [],
+        "rest": [
+          ""
+        ]
+      },
+      "roomName": "deluxe room one king bed ",
+      "roomDetails": {
+        "name": "Deluxe Room, 1 King Bed (Plus) (1 king bed)",
+        "description": "Deluxe Room, 1 King Bed (Plus) (1 king bed)",
+        "price": 3974.83,
+        "b2CPrice": 3548.95,
+        "savingPercent": -12.000169064089379,
+        "boardCode": "111208|200669780|E|14",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 144.86
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 116.55,
+            "originAmount": 116.55
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          },
+          {
+            "rate": 94.75,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "deluxe room one king bed ",
+        "roomID": 5
+      }
+    },
+    {
+      "id": 14,
+      "roomPOS": {
+        "nouns": [
+          "room",
+          "bed",
+          "king",
+          "one"
+        ],
+        "verbs": [
+          "room",
+          "bed"
+        ],
+        "adjectives": [
+          "deluxe",
+          "one"
+        ],
+        "adverbs": [],
+        "rest": [
+          ""
+        ]
+      },
+      "roomName": "deluxe room one king bed ",
+      "roomDetails": {
+        "name": "Deluxe Room, 1 King Bed (Plus) (1 king bed)",
+        "description": "Deluxe Room, 1 King Bed (Plus) (1 king bed)",
+        "price": 5148.72,
+        "b2CPrice": 4597.07,
+        "savingPercent": -12.000034804777826,
+        "boardCode": "111208|1015177|E|14",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2104": "Full Breakfast"
+        },
+        "specialOffers": [
+          {
+            "amount": 59.74
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 150.92,
+            "originAmount": 150.92
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          },
+          {
+            "rate": 122.74,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "deluxe room one king bed ",
+        "roomID": 14
+      }
+    },
+    {
+      "id": 15,
+      "roomPOS": {
+        "nouns": [
+          "room",
+          "bed",
+          "king",
+          "one"
+        ],
+        "verbs": [
+          "room",
+          "bed"
+        ],
+        "adjectives": [
+          "deluxe",
+          "one"
+        ],
+        "adverbs": [],
+        "rest": [
+          "hilton"
+        ]
+      },
+      "roomName": "king hilton deluxe room one bed",
+      "roomDetails": {
+        "name": "King Hilton, Deluxe Room, 1 King Bed (1 king bed)",
+        "description": "King Hilton, Deluxe Room, 1 King Bed (1 king bed)",
+        "price": 5323.45,
+        "b2CPrice": 4753.08,
+        "savingPercent": -12.000008415595783,
+        "boardCode": "111210|1034225|E|14",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {
+          "2104": "Full Breakfast"
+        },
+        "specialOffers": [
+          {
+            "amount": 61.76
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 156.08,
+            "originAmount": 156.08
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 126.9,
+            "promo": false
+          },
+          {
+            "rate": 126.9,
+            "promo": false
+          },
+          {
+            "rate": 126.9,
+            "promo": false
+          },
+          {
+            "rate": 126.9,
+            "promo": false
+          },
+          {
+            "rate": 126.9,
+            "promo": false
+          },
+          {
+            "rate": 126.9,
+            "promo": false
+          },
+          {
+            "rate": 126.9,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "king hilton deluxe room one bed",
+        "roomID": 15
+      }
+    },
+    {
+      "id": 2,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two",
+          "lake",
+          "view"
+        ],
+        "verbs": [
+          "twin",
+          "room",
+          "view"
+        ],
+        "adjectives": [
+          "deluxe",
+          "twin",
+          "two"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds"
+        ]
+      },
+      "roomName": "deluxe twin room lake view two beds",
+      "roomDetails": {
+        "name": "Deluxe Twin Room, Lake View (2 twin beds)",
+        "description": "Deluxe Twin Room, Lake View (2 twin beds)",
+        "price": 3625.51,
+        "b2CPrice": 3237.06,
+        "savingPercent": -12.000086498242233,
+        "boardCode": "200151422|200844667|E|25",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 131.29
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 106.33,
+            "originAmount": 106.33
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "deluxe twin room lake view two beds",
+        "roomID": 2
+      }
+    },
+    {
+      "id": 3,
+      "roomPOS": {
+        "nouns": [
+          "room",
+          "bed",
+          "king",
+          "one",
+          "lake",
+          "view"
+        ],
+        "verbs": [
+          "room",
+          "bed",
+          "view"
+        ],
+        "adjectives": [
+          "deluxe",
+          "one"
+        ],
+        "adverbs": [],
+        "rest": []
+      },
+      "roomName": "deluxe room one king bed lake view",
+      "roomDetails": {
+        "name": "Deluxe Room, 1 King Bed, Lake View (1 king bed)",
+        "description": "Deluxe Room, 1 King Bed, Lake View (1 king bed)",
+        "price": 3625.51,
+        "b2CPrice": 3237.06,
+        "savingPercent": -12.000086498242233,
+        "boardCode": "200151416|200844634|E|14",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 131.29
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 106.33,
+            "originAmount": 106.33
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          },
+          {
+            "rate": 86.42,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "deluxe room one king bed lake view",
+        "roomID": 3
+      }
+    },
+    {
+      "id": 7,
+      "roomPOS": {
+        "nouns": [
+          "room",
+          "bed",
+          "king",
+          "one",
+          "lake",
+          "view"
+        ],
+        "verbs": [
+          "room",
+          "bed",
+          "view"
+        ],
+        "adjectives": [
+          "deluxe",
+          "one"
+        ],
+        "adverbs": [],
+        "rest": []
+      },
+      "roomName": "deluxe room one king bed lake view",
+      "roomDetails": {
+        "name": "Deluxe Room, 1 King Bed, Lake View (1 king bed)",
+        "description": "Deluxe Room, 1 King Bed, Lake View (1 king bed)",
+        "price": 4762.6,
+        "b2CPrice": 4252.32,
+        "savingPercent": -12.000037626519171,
+        "boardCode": "200151416|200844646|E|14",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2205": "Breakfast Buffet"
+        },
+        "specialOffers": [
+          {
+            "amount": 55.31
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 139.64,
+            "originAmount": 139.64
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "deluxe room one king bed lake view",
+        "roomID": 7
+      }
+    },
+    {
+      "id": 8,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two",
+          "lake",
+          "view"
+        ],
+        "verbs": [
+          "twin",
+          "room",
+          "view"
+        ],
+        "adjectives": [
+          "deluxe",
+          "twin",
+          "two"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds"
+        ]
+      },
+      "roomName": "deluxe twin room lake view two beds",
+      "roomDetails": {
+        "name": "Deluxe Twin Room, Lake View (2 twin beds)",
+        "description": "Deluxe Twin Room, Lake View (2 twin beds)",
+        "price": 4762.6,
+        "b2CPrice": 4252.32,
+        "savingPercent": -12.000037626519171,
+        "boardCode": "200151422|200844661|E|25",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2205": "Breakfast Buffet"
+        },
+        "specialOffers": [
+          {
+            "amount": 55.31
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 139.64,
+            "originAmount": 139.64
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          },
+          {
+            "rate": 113.53,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "deluxe twin room lake view two beds",
+        "roomID": 8
+      }
+    },
+    {
+      "id": 9,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two",
+          "executive",
+          "business",
+          "lounge",
+          "access"
+        ],
+        "verbs": [
+          "twin",
+          "room",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "twin",
+          "two",
+          "executive"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds"
+        ]
+      },
+      "roomName": "executive room two twin beds business lounge access",
+      "roomDetails": {
+        "name": "Executive Room, 2 Twin Beds, Business Lounge Access (2 twin beds)",
+        "description": "Executive Room, 2 Twin Beds, Business Lounge Access (2 twin beds)",
+        "price": 4812.96,
+        "b2CPrice": 4297.28,
+        "savingPercent": -12.000148931417083,
+        "boardCode": "111211|200669788|E|25",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {
+          "2192": "Free Wireless Internet"
+        },
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 175.38
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 141.12,
+            "originAmount": 141.12
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive room two twin beds business lounge access",
+        "roomID": 9
+      }
+    },
+    {
+      "id": 10,
+      "roomPOS": {
+        "nouns": [
+          "room",
+          "bed",
+          "king",
+          "one",
+          "executive",
+          "business",
+          "lounge",
+          "access"
+        ],
+        "verbs": [
+          "room",
+          "bed",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one",
+          "executive"
+        ],
+        "adverbs": [],
+        "rest": []
+      },
+      "roomName": "executive room one king bed business lounge access",
+      "roomDetails": {
+        "name": "Executive Room, 1 King Bed, Business Lounge Access (1 king bed)",
+        "description": "Executive Room, 1 King Bed, Business Lounge Access (1 king bed)",
+        "price": 4812.96,
+        "b2CPrice": 4297.28,
+        "savingPercent": -12.000148931417083,
+        "boardCode": "111206|200669775|E|14",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {
+          "2192": "Free Wireless Internet"
+        },
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 175.38
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 141.12,
+            "originAmount": 141.12
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          },
+          {
+            "rate": 114.73,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive room one king bed business lounge access",
+        "roomID": 10
+      }
+    },
+    {
+      "id": 11,
+      "roomPOS": {
+        "nouns": [
+          "room",
+          "bed",
+          "king",
+          "one",
+          "lake",
+          "view",
+          "executive",
+          "business",
+          "lounge",
+          "access"
+        ],
+        "verbs": [
+          "room",
+          "bed",
+          "view",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one",
+          "executive"
+        ],
+        "adverbs": [],
+        "rest": []
+      },
+      "roomName": "executive room one king bed business lounge access lake view",
+      "roomDetails": {
+        "name": "Executive Room, 1 King Bed, Business Lounge Access, Lake View (1 king bed)",
+        "description": "Executive Room, 1 King Bed, Business Lounge Access, Lake View (1 king bed)",
+        "price": 5022.77,
+        "b2CPrice": 4484.61,
+        "savingPercent": -12.000151629684632,
+        "boardCode": "200263648|201550719|E|14",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 181.97
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 147.28,
+            "originAmount": 147.28
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive room one king bed business lounge access lake view",
+        "roomID": 11
+      }
+    },
+    {
+      "id": 12,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two",
+          "lake",
+          "view",
+          "executive",
+          "business",
+          "lounge",
+          "access"
+        ],
+        "verbs": [
+          "twin",
+          "room",
+          "view",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "twin",
+          "two",
+          "executive"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds"
+        ]
+      },
+      "roomName": "executive room two twin beds business lounge access lake view",
+      "roomDetails": {
+        "name": "Executive Room, 2 Twin Beds, Business Lounge Access, Lake View (2 twin beds)",
+        "description": "Executive Room, 2 Twin Beds, Business Lounge Access, Lake View (2 twin beds)",
+        "price": 5022.77,
+        "b2CPrice": 4484.61,
+        "savingPercent": -12.000151629684632,
+        "boardCode": "200263677|201551004|E|25",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 181.97
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 147.28,
+            "originAmount": 147.28
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          },
+          {
+            "rate": 119.73,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive room two twin beds business lounge access lake view",
+        "roomID": 12
+      }
+    },
+    {
+      "id": 16,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two",
+          "executive",
+          "business",
+          "lounge",
+          "access"
+        ],
+        "verbs": [
+          "twin",
+          "room",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "twin",
+          "two",
+          "executive"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds",
+          ""
+        ]
+      },
+      "roomName": "executive room two twin beds business lounge access ",
+      "roomDetails": {
+        "name": "Executive Room, 2 Twin Beds, Business Lounge Access (Plus) (2 twin beds)",
+        "description": "Executive Room, 2 Twin Beds, Business Lounge Access (Plus) (2 twin beds)",
+        "price": 5372.07,
+        "b2CPrice": 4796.49,
+        "savingPercent": -12.000025018294627,
+        "boardCode": "334212|200669793|E|25",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {
+          "2192": "Free Wireless Internet"
+        },
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 195.51
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 157.57,
+            "originAmount": 157.57
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 128.05,
+            "promo": true
+          },
+          {
+            "rate": 128.05,
+            "promo": true
+          },
+          {
+            "rate": 128.05,
+            "promo": true
+          },
+          {
+            "rate": 128.05,
+            "promo": true
+          },
+          {
+            "rate": 128.05,
+            "promo": true
+          },
+          {
+            "rate": 128.05,
+            "promo": true
+          },
+          {
+            "rate": 128.05,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive room two twin beds business lounge access ",
+        "roomID": 16
+      }
+    },
+    {
+      "id": 17,
+      "roomPOS": {
+        "nouns": [
+          "room",
+          "bed",
+          "king",
+          "one",
+          "executive",
+          "business",
+          "lounge",
+          "access"
+        ],
+        "verbs": [
+          "room",
+          "bed",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one",
+          "executive"
+        ],
+        "adverbs": [],
+        "rest": []
+      },
+      "roomName": "executive room one king bed business lounge access",
+      "roomDetails": {
+        "name": "Executive Room, 1 King Bed, Business Lounge Access (1 king bed)",
+        "description": "Executive Room, 1 King Bed, Business Lounge Access (1 king bed)",
+        "price": 6086.66,
+        "b2CPrice": 5434.51,
+        "savingPercent": -12.000161928122315,
+        "boardCode": "111206|1015183|E|14",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2104": "Full Breakfast",
+          "2192": "Free Wireless Internet"
+        },
+        "specialOffers": [
+          {
+            "amount": 70.65
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 178.48,
+            "originAmount": 178.48
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive room one king bed business lounge access",
+        "roomID": 17
+      }
+    },
+    {
+      "id": 18,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two",
+          "executive",
+          "business",
+          "lounge",
+          "access"
+        ],
+        "verbs": [
+          "twin",
+          "room",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "twin",
+          "two",
+          "executive"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds"
+        ]
+      },
+      "roomName": "executive room two twin beds business lounge access",
+      "roomDetails": {
+        "name": "Executive Room, 2 Twin Beds, Business Lounge Access (2 twin beds)",
+        "description": "Executive Room, 2 Twin Beds, Business Lounge Access (2 twin beds)",
+        "price": 6086.66,
+        "b2CPrice": 5434.51,
+        "savingPercent": -12.000161928122315,
+        "boardCode": "111211|1015189|E|25",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2104": "Full Breakfast",
+          "2192": "Free Wireless Internet"
+        },
+        "specialOffers": [
+          {
+            "amount": 70.65
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 178.48,
+            "originAmount": 178.48
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          },
+          {
+            "rate": 145.09,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive room two twin beds business lounge access",
+        "roomID": 18
+      }
+    },
+    {
+      "id": 20,
+      "roomPOS": {
+        "nouns": [
+          "room",
+          "bed",
+          "king",
+          "one",
+          "lake",
+          "view",
+          "executive",
+          "business",
+          "lounge",
+          "access"
+        ],
+        "verbs": [
+          "room",
+          "bed",
+          "view",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one",
+          "executive"
+        ],
+        "adverbs": [],
+        "rest": []
+      },
+      "roomName": "executive room one king bed business lounge access lake view",
+      "roomDetails": {
+        "name": "Executive Room, 1 King Bed, Business Lounge Access, Lake View (1 king bed)",
+        "description": "Executive Room, 1 King Bed, Business Lounge Access, Lake View (1 king bed)",
+        "price": 6325.76,
+        "b2CPrice": 5648,
+        "savingPercent": -12,
+        "boardCode": "200263648|201550763|E|14",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2205": "Breakfast Buffet"
+        },
+        "specialOffers": [
+          {
+            "amount": 73.41
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 185.49,
+            "originAmount": 185.49
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive room one king bed business lounge access lake view",
+        "roomID": 20
+      }
+    },
+    {
+      "id": 21,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two",
+          "lake",
+          "view",
+          "executive",
+          "business",
+          "lounge",
+          "access"
+        ],
+        "verbs": [
+          "twin",
+          "room",
+          "view",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "twin",
+          "two",
+          "executive"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds"
+        ]
+      },
+      "roomName": "executive room two twin beds business lounge access lake view",
+      "roomDetails": {
+        "name": "Executive Room, 2 Twin Beds, Business Lounge Access, Lake View (2 twin beds)",
+        "description": "Executive Room, 2 Twin Beds, Business Lounge Access, Lake View (2 twin beds)",
+        "price": 6325.76,
+        "b2CPrice": 5648,
+        "savingPercent": -12,
+        "boardCode": "200263677|201551054|E|25",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2205": "Breakfast Buffet"
+        },
+        "specialOffers": [
+          {
+            "amount": 73.41
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 185.49,
+            "originAmount": 185.49
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          },
+          {
+            "rate": 150.79,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive room two twin beds business lounge access lake view",
+        "roomID": 21
+      }
+    },
+    {
+      "id": 22,
+      "roomPOS": {
+        "nouns": [
+          "twin",
+          "room",
+          "two",
+          "executive",
+          "business",
+          "lounge",
+          "access"
+        ],
+        "verbs": [
+          "twin",
+          "room",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "twin",
+          "two",
+          "executive"
+        ],
+        "adverbs": [],
+        "rest": [
+          "beds",
+          ""
+        ]
+      },
+      "roomName": "executive room two twin beds business lounge access ",
+      "roomDetails": {
+        "name": "Executive Room, 2 Twin Beds, Business Lounge Access (Plus) (2 twin beds)",
+        "description": "Executive Room, 2 Twin Beds, Business Lounge Access (Plus) (2 twin beds)",
+        "price": 6711.58,
+        "b2CPrice": 5992.48,
+        "savingPercent": -12.000040050196246,
+        "boardCode": "334212|1034151|E|25",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2104": "Full Breakfast",
+          "2192": "Free Wireless Internet"
+        },
+        "specialOffers": [
+          {
+            "amount": 77.91
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 196.78,
+            "originAmount": 196.78
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 159.99,
+            "promo": false
+          },
+          {
+            "rate": 159.99,
+            "promo": false
+          },
+          {
+            "rate": 159.99,
+            "promo": false
+          },
+          {
+            "rate": 159.99,
+            "promo": false
+          },
+          {
+            "rate": 159.99,
+            "promo": false
+          },
+          {
+            "rate": 159.99,
+            "promo": false
+          },
+          {
+            "rate": 159.99,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive room two twin beds business lounge access ",
+        "roomID": 22
+      }
+    },
+    {
+      "id": 19,
+      "roomPOS": {
+        "nouns": [
+          "bed",
+          "king",
+          "one",
+          "executive",
+          "business",
+          "lounge",
+          "access",
+          "suite",
+          "smoking",
+          "grand"
+        ],
+        "verbs": [
+          "bed",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one",
+          "executive",
+          "smoking",
+          "grand"
+        ],
+        "adverbs": [
+          "non"
+        ],
+        "rest": []
+      },
+      "roomName": "executive suite one king bed non smoking business lounge access grand",
+      "roomDetails": {
+        "name": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Grand) (1 king bed)",
+        "description": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Grand) (1 king bed)",
+        "price": 6210.57,
+        "b2CPrice": 5545.15,
+        "savingPercent": -12.000036067554529,
+        "boardCode": "200263543|201549995|E|14",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Seasonal deal",
+            "specialOfferDescription": "Seasonal deal",
+            "amount": 225.93
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 182.07,
+            "originAmount": 182.07
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 148.05,
+            "promo": true
+          },
+          {
+            "rate": 148.05,
+            "promo": true
+          },
+          {
+            "rate": 148.05,
+            "promo": true
+          },
+          {
+            "rate": 148.05,
+            "promo": true
+          },
+          {
+            "rate": 148.05,
+            "promo": true
+          },
+          {
+            "rate": 148.05,
+            "promo": true
+          },
+          {
+            "rate": 148.05,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive suite one king bed non smoking business lounge access grand",
+        "roomID": 19
+      }
+    },
+    {
+      "id": 23,
+      "roomPOS": {
+        "nouns": [
+          "bed",
+          "king",
+          "one",
+          "executive",
+          "business",
+          "lounge",
+          "access",
+          "suite",
+          "smoking",
+          "grand"
+        ],
+        "verbs": [
+          "bed",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one",
+          "executive",
+          "smoking",
+          "grand"
+        ],
+        "adverbs": [
+          "non"
+        ],
+        "rest": []
+      },
+      "roomName": "executive suite one king bed non smoking business lounge access grand",
+      "roomDetails": {
+        "name": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Grand) (1 king bed)",
+        "description": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Grand) (1 king bed)",
+        "price": 7649.47,
+        "b2CPrice": 6829.88,
+        "savingPercent": -12.000064422800985,
+        "boardCode": "200263543|201550052|E|14",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2205": "Breakfast Buffet"
+        },
+        "specialOffers": [
+          {
+            "amount": 88.82
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 224.26,
+            "originAmount": 224.26
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 182.35,
+            "promo": false
+          },
+          {
+            "rate": 182.35,
+            "promo": false
+          },
+          {
+            "rate": 182.35,
+            "promo": false
+          },
+          {
+            "rate": 182.35,
+            "promo": false
+          },
+          {
+            "rate": 182.35,
+            "promo": false
+          },
+          {
+            "rate": 182.35,
+            "promo": false
+          },
+          {
+            "rate": 182.35,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive suite one king bed non smoking business lounge access grand",
+        "roomID": 23
+      }
+    },
+    {
+      "id": 24,
+      "roomPOS": {
+        "nouns": [
+          "bed",
+          "king",
+          "one",
+          "executive",
+          "business",
+          "lounge",
+          "access",
+          "suite",
+          "smoking",
+          "lifestyle"
+        ],
+        "verbs": [
+          "bed",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one",
+          "executive",
+          "smoking"
+        ],
+        "adverbs": [
+          "non"
+        ],
+        "rest": []
+      },
+      "roomName": "executive suite one king bed non smoking business lounge access lifestyle",
+      "roomDetails": {
+        "name": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Lifestyle) (1 king bed)",
+        "description": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Lifestyle) (1 king bed)",
+        "price": 13971.81,
+        "b2CPrice": 12474.83,
+        "savingPercent": -12.00000320645652,
+        "boardCode": "200263621|201550485|E|14",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Sale!",
+            "specialOfferDescription": "Sale!",
+            "amount": 327.14
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 409.71,
+            "originAmount": 409.71
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 333.05,
+            "promo": true
+          },
+          {
+            "rate": 333.05,
+            "promo": true
+          },
+          {
+            "rate": 333.05,
+            "promo": true
+          },
+          {
+            "rate": 333.05,
+            "promo": true
+          },
+          {
+            "rate": 333.05,
+            "promo": true
+          },
+          {
+            "rate": 333.05,
+            "promo": true
+          },
+          {
+            "rate": 333.05,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive suite one king bed non smoking business lounge access lifestyle",
+        "roomID": 24
+      }
+    },
+    {
+      "id": 25,
+      "roomPOS": {
+        "nouns": [
+          "bed",
+          "king",
+          "one",
+          "executive",
+          "business",
+          "lounge",
+          "access",
+          "suite",
+          "smoking",
+          "lifestyle"
+        ],
+        "verbs": [
+          "bed",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one",
+          "executive",
+          "smoking"
+        ],
+        "adverbs": [
+          "non"
+        ],
+        "rest": []
+      },
+      "roomName": "executive suite one king bed non smoking business lounge access lifestyle",
+      "roomDetails": {
+        "name": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Lifestyle) (1 king bed)",
+        "description": "Executive Suite, 1 King Bed, Non Smoking, Business Lounge Access (Lifestyle) (1 king bed)",
+        "price": 15465.14,
+        "b2CPrice": 13808.16,
+        "savingPercent": -12.000005793675623,
+        "boardCode": "200263621|201550521|E|14",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2205": "Breakfast Buffet"
+        },
+        "specialOffers": [
+          {
+            "amount": 179.46
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 453.48,
+            "originAmount": 453.48
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 368.65,
+            "promo": false
+          },
+          {
+            "rate": 368.65,
+            "promo": false
+          },
+          {
+            "rate": 368.65,
+            "promo": false
+          },
+          {
+            "rate": 368.65,
+            "promo": false
+          },
+          {
+            "rate": 368.65,
+            "promo": false
+          },
+          {
+            "rate": 368.65,
+            "promo": false
+          },
+          {
+            "rate": 368.65,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "executive suite one king bed non smoking business lounge access lifestyle",
+        "roomID": 25
+      }
+    },
+    {
+      "id": 26,
+      "roomPOS": {
+        "nouns": [
+          "bed",
+          "king",
+          "one",
+          "business",
+          "lounge",
+          "access",
+          "suite"
+        ],
+        "verbs": [
+          "bed",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one",
+          "presidential"
+        ],
+        "adverbs": [],
+        "rest": []
+      },
+      "roomName": "presidential suite business lounge access one king bed",
+      "roomDetails": {
+        "name": "Presidential Suite, Business Lounge Access (1 king bed)",
+        "description": "Presidential Suite, Business Lounge Access (1 king bed)",
+        "price": 37641.23,
+        "b2CPrice": 33608.24,
+        "savingPercent": -12.000003570552936,
+        "boardCode": "201119405|205281387|E|14",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Sale!",
+            "specialOfferDescription": "Sale!",
+            "amount": 880.12
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 1103.69,
+            "originAmount": 1103.69
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 897.28,
+            "promo": true
+          },
+          {
+            "rate": 897.28,
+            "promo": true
+          },
+          {
+            "rate": 897.28,
+            "promo": true
+          },
+          {
+            "rate": 897.28,
+            "promo": true
+          },
+          {
+            "rate": 897.28,
+            "promo": true
+          },
+          {
+            "rate": 897.28,
+            "promo": true
+          },
+          {
+            "rate": 897.28,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "presidential suite business lounge access one king bed",
+        "roomID": 26
+      }
+    },
+    {
+      "id": 27,
+      "roomPOS": {
+        "nouns": [
+          "bed",
+          "king",
+          "one",
+          "business",
+          "lounge",
+          "access",
+          "suite"
+        ],
+        "verbs": [
+          "bed",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one",
+          "presidential"
+        ],
+        "adverbs": [],
+        "rest": []
+      },
+      "roomName": "presidential suite business lounge access one king bed",
+      "roomDetails": {
+        "name": "Presidential Suite, Business Lounge Access (1 king bed)",
+        "description": "Presidential Suite, Business Lounge Access (1 king bed)",
+        "price": 40472.85,
+        "b2CPrice": 36136.47,
+        "savingPercent": -12.000009962234827,
+        "boardCode": "201119405|205281366|E|14",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2205": "Breakfast Buffet"
+        },
+        "specialOffers": [
+          {
+            "amount": 469.81
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 1186.71,
+            "originAmount": 1186.71
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 964.78,
+            "promo": false
+          },
+          {
+            "rate": 964.78,
+            "promo": false
+          },
+          {
+            "rate": 964.78,
+            "promo": false
+          },
+          {
+            "rate": 964.78,
+            "promo": false
+          },
+          {
+            "rate": 964.78,
+            "promo": false
+          },
+          {
+            "rate": 964.78,
+            "promo": false
+          },
+          {
+            "rate": 964.78,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "presidential suite business lounge access one king bed",
+        "roomID": 27
+      }
+    },
+    {
+      "id": 28,
+      "roomPOS": {
+        "nouns": [
+          "bed",
+          "king",
+          "one",
+          "business",
+          "lounge",
+          "access",
+          "penthouse"
+        ],
+        "verbs": [
+          "bed",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one"
+        ],
+        "adverbs": [],
+        "rest": []
+      },
+      "roomName": "penthouse business lounge access one king bed",
+      "roomDetails": {
+        "name": "Penthouse, Business Lounge Access (1 king bed)",
+        "description": "Penthouse, Business Lounge Access (1 king bed)",
+        "price": 47996.45,
+        "b2CPrice": 42853.97,
+        "savingPercent": -12.000008400621926,
+        "boardCode": "201119409|205281414|E|14",
+        "boardCodeDescription": "Room Only",
+        "hotelId": "EA223488",
+        "isNonRefundable": false,
+        "facilities": {},
+        "specialOffers": [
+          {
+            "specialOfferName": "Sale!",
+            "specialOfferDescription": "Sale!",
+            "amount": 1122.1
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 1407.35,
+            "originAmount": 1407.35
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 1144.12,
+            "promo": true
+          },
+          {
+            "rate": 1144.12,
+            "promo": true
+          },
+          {
+            "rate": 1144.12,
+            "promo": true
+          },
+          {
+            "rate": 1144.12,
+            "promo": true
+          },
+          {
+            "rate": 1144.12,
+            "promo": true
+          },
+          {
+            "rate": 1144.12,
+            "promo": true
+          },
+          {
+            "rate": 1144.12,
+            "promo": true
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "penthouse business lounge access one king bed",
+        "roomID": 28
+      }
+    },
+    {
+      "id": 29,
+      "roomPOS": {
+        "nouns": [
+          "bed",
+          "king",
+          "one",
+          "business",
+          "lounge",
+          "access",
+          "penthouse"
+        ],
+        "verbs": [
+          "bed",
+          "lounge",
+          "access"
+        ],
+        "adjectives": [
+          "one"
+        ],
+        "adverbs": [],
+        "rest": []
+      },
+      "roomName": "penthouse business lounge access one king bed",
+      "roomDetails": {
+        "name": "Penthouse, Business Lounge Access (1 king bed)",
+        "description": "Penthouse, Business Lounge Access (1 king bed)",
+        "price": 51414.66,
+        "b2CPrice": 45905.94,
+        "savingPercent": -12.000015684244785,
+        "boardCode": "201119409|205281403|E|14",
+        "boardCodeDescription": "Breakfast",
+        "hotelId": "EA223488",
+        "isNonRefundable": true,
+        "facilities": {
+          "2205": "Breakfast Buffet"
+        },
+        "specialOffers": [
+          {
+            "amount": 596.75
+          }
+        ],
+        "surcharges": [
+          {
+            "charge": "TaxAndServiceFee",
+            "name": "TaxAndServiceFee",
+            "amount": 1507.59,
+            "originAmount": 1507.59
+          }
+        ],
+        "nightlyRates": [
+          {
+            "rate": 1225.6,
+            "promo": false
+          },
+          {
+            "rate": 1225.6,
+            "promo": false
+          },
+          {
+            "rate": 1225.6,
+            "promo": false
+          },
+          {
+            "rate": 1225.6,
+            "promo": false
+          },
+          {
+            "rate": 1225.6,
+            "promo": false
+          },
+          {
+            "rate": 1225.6,
+            "promo": false
+          },
+          {
+            "rate": 1225.6,
+            "promo": false
+          }
+        ],
+        "hasBreakfast": false,
+        "processedRoomName": "penthouse business lounge access one king bed",
+        "roomID": 29
+      }
+    }
+  ]
+}
