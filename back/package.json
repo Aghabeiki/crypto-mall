@@ -12,7 +12,7 @@
     "express": "^4.15.3",
     "genetical": "^0.3.6",
     "limdu": "^0.9.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "v8-profiler": "^5.7.0",
     "wordpos": "^1.1.5"
   },
