@@ -4,7 +4,7 @@
   "description": "a hotel room name  clasifier ",
   "main": "app.js",
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "aws-sdk": "^2.128.0",
     "body-parser": "^1.17.2",
     "connect-timeout": "^1.9.0",
