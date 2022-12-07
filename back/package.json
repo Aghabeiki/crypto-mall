@@ -9,7 +9,7 @@
     "body-parser": "^1.17.2",
     "connect-timeout": "^1.9.0",
     "dynamodb": "^1.0.0",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "genetical": "^0.3.6",
     "limdu": "^0.9.3",
     "lodash": "^4.17.21",
